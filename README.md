@@ -79,32 +79,32 @@ Driven by curiosity and discipline, I aim to build scalable, efficient, and impa
 
 **🎓 Jadavpur University**  
 **Master of Technology (M.Tech) – Computer Technology / Computer Systems Technology**  
-📅 *Jul 2021 – Dec 2024*  
-🏅 *First Class*  
-🔬 Specialization: **Natural Language Processing (NLP)**  
-🧠 Skills: Research Projects · Artificial Intelligence (AI) · Machine Learning · Algorithms · Programming · Computer Science · Tutorials · Presentations · Skill Development  
+*Jul 2021 – Dec 2024*  
+*First Class*  
+Specialization: **Natural Language Processing (NLP)**  
+Skills: Research Projects · Artificial Intelligence (AI) · Machine Learning · Algorithms · Programming · Computer Science · Tutorials · Presentations · Skill Development  
 
 ---
 
 **🎓 Techno India Group, Salt Lake Campus**  
 **Master of Computer Applications (MCA) – Computer Science**  
-📅 *2018 – 2021*  
-🏅 *9.49 DGPA | Ranked 3rd in College*  
-🧠 Skills: Teaching · Algorithms · Programming · Computer Science · Presentations · Skill Development · Elementor  
+*2018 – 2021*  
+*9.49 DGPA | Ranked 3rd in College*  
+Skills: Teaching · Algorithms · Programming · Computer Science · Presentations · Skill Development · Elementor  
 
 ---
 
 **🎓 Techno India Group, Salt Lake Campus**  
 **Bachelor of Computer Applications (BCA) – Computer Programming**  
-📅 *2015 – 2018*  
-🏅 *9.11 DGPA | Ranked 3rd in College*  
-🧠 Skills: Computer Science · Computer Engineering · Elementor  
+*2015 – 2018*  
+*9.11 DGPA | Ranked 3rd in College*  
+Skills: Computer Science · Computer Engineering · Elementor  
 
 ---
 
 **🏫 Rahara Ramakrishna Mission**  
 **Higher Secondary Education**  
-📅 *2003 – 2015*
+*2003 – 2015*
 
 ---
 
