@@ -1,16 +1,16 @@
 # About Me:
 ## Satyaki Das  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyaki-das-25593714a/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dassatyaki1908@gmail.com)
 
-I am an Educator, Java Full Stack Developer, and System Engineer at Tata Consultancy Services (TCS) with 4+ years of hands-on industry experience in building scalable, reliable, and user-centric applications. My core expertise lies in Java-based full stack development, where I work across backend and frontend technologies to deliver robust, end-to-end solutions aligned with real-world business requirements.
-I have strong proficiency in Core Java, JSP, Servlets, XML, MySQL, and modern frontend technologies including HTML5, CSS3, Bootstrap, JavaScript, and jQuery. I enjoy designing clean system architectures, writing maintainable code, and continuously improving application performance, scalability, and usability.
-Alongside my professional role, I am deeply invested in teaching, mentoring, and continuous learning. I have trained and mentored 1,000+ students, many of whom are currently working in leading MNCs across software development, data, and cloud domains. I hold a Master of Technology (M.Tech) in Computer Technology from Jadavpur University), along with an MCA and BCA in Computer Science. I am GATE qualified and achieved a CodeVita Global Rank of 848, reflecting strong problem-solving and algorithmic fundamentals.
-I hold certifications in Python and Data Innovation, enabling me to work effectively across cloud-enabled and data-driven environments. I particularly enjoy creating structured learning paths, developing hands-on tutorials, and contributing to research-oriented or exploratory technical projects.
-I am also a published author, with multiple books available on Amazon:
-NumPy: For The Beginners — an introductory guide to numerical computing using Python
-📘 https://www.amazon.in/Numpy-Beginners-Satyaki-Das-ebook/dp/B084BRQRM9/
-Data Science in Python: Learn with Pandas — a practical, hands-on guide to data analysis with Pandas
-📘 https://www.amazon.in/Data-Science-Python-Learn-Pandas-ebook/dp/B08M652L4R/
-Driven by curiosity, discipline, and a passion for impactful education and technology, I aim to build scalable, efficient software solutions while continuously evolving as a developer, educator, and technologist.
+I am an Educator, Java Full Stack Developer, and System Engineer at Tata Consultancy Services (TCS) with 4+ years of hands-on industry experience in building scalable, reliable, and user-centric applications. My core expertise lies in Java-based full stack development, where I work across backend and frontend technologies to deliver robust, end-to-end solutions aligned with real-world business requirements. <br>
+I have strong proficiency in Core Java, JSP, Servlets, XML, MySQL, and modern frontend technologies including HTML5, CSS3, Bootstrap, JavaScript, and jQuery. I enjoy designing clean system architectures, writing maintainable code, and continuously improving application performance, scalability, and usability. <br>
+Alongside my professional role, I am deeply invested in teaching, mentoring, and continuous learning. I have trained and mentored 1,000+ students, many of whom are currently working in leading MNCs across software development, data, and cloud domains. I hold a Master of Technology (M.Tech) in Computer Technology from Jadavpur University), along with an MCA and BCA in Computer Science. I am GATE qualified and achieved a CodeVita Global Rank of 848, reflecting strong problem-solving and algorithmic fundamentals. <br>
+I hold certifications in Python and Data Innovation, enabling me to work effectively across cloud-enabled and data-driven environments. I particularly enjoy creating structured learning paths, developing hands-on tutorials, and contributing to research-oriented or exploratory technical projects. <br><br>
+I am also a published author, with multiple books available on Amazon:<br>
+NumPy: For The Beginners — an introductory guide to numerical computing using Python<br>
+📘 https://www.amazon.in/Numpy-Beginners-Satyaki-Das-ebook/dp/B084BRQRM9/<br>
+Data Science in Python: Learn with Pandas — a practical, hands-on guide to data analysis with Pandas<br>
+📘 https://www.amazon.in/Data-Science-Python-Learn-Pandas-ebook/dp/B08M652L4R/<br>
+Driven by curiosity, discipline, and a passion for impactful education and technology, I aim to build scalable, efficient software solutions while continuously evolving as a developer, educator, and technologist.<br>
 
 ---
 
