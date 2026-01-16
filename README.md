@@ -10,7 +10,7 @@ Driven by curiosity and discipline, I aim to build scalable, efficient, and impa
 ## Experience: 
 ## 🏢 Project 1: TCS Bancs – AXA Mexico  
 **Role:** Java Full Stack Developer  
-**Duration:** Mar 2025 – Present
+**Duration:** Mar 2025 – Present<br>
 **Domain:** Banking | Insurance | Identity & Access Management
 
 ### 🔐 Key Contributions
