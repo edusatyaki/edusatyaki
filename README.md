@@ -1,5 +1,5 @@
 # About Me:
-## Satyaki Das | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyaki-das-25593714a/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dassatyaki1908@gmail.com)
+## Satyaki Das  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyaki-das-25593714a/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dassatyaki1908@gmail.com)
 
 I am an Educator and Java Full Stack Developer and System Engineer at Tata Consultancy Services (TCS) with over 4+ years of hands-on experience in building scalable, reliable, and user-centric applications. My core expertise lies in Java-based full stack development, where I work across backend and frontend technologies to deliver end-to-end solutions aligned with business needs.<br>
 I have strong proficiency in Core Java, JSP, Servlets, XML, MySQL, and modern frontend technologies including HTML5, CSS3, Bootstrap, JavaScript, and jQuery. I enjoy designing clean architectures, writing maintainable code, and continuously improving application performance and usability.<br>
