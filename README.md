@@ -22,7 +22,7 @@ Driven by curiosity, discipline, and a passion for impactful education and techn
 ---
 
 ## Experience: 
-## 🏢 Project 1: TCS Bancs – AXA Mexico  
+## Project 1: TCS Bancs – AXA Mexico  
 **Role:** Java Full Stack Developer  
 **Duration:** Mar 2025 – Present<br>
 **Domain:** Banking | Insurance | Identity & Access Management
