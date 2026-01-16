@@ -7,6 +7,74 @@ Driven by curiosity and discipline, I aim to build scalable, efficient, and impa
 
 ---
 
+## Experience: 
+## 🏢 Project 1: TCS Bancs – AXA Mexico  
+**Role:** Java Full Stack Developer  
+**Duration:** Mar 2025 – Jul 2025  
+**Domain:** Banking | Insurance | Identity & Access Management
+
+### 🔐 Key Contributions
+- Designed and implemented **SAML-based Single Sign-On (SSO)** for secure enterprise authentication.
+- Integrated **Identity Provider (IdP)** and **Service Provider (SP)** components.
+- Ensured compliance with **enterprise security standards and protocols**.
+- Collaborated with **system architects and IT security teams** to validate SAML assertions.
+- Supported **post-deployment testing and troubleshooting** across multiple environments.
+
+### 🧰 Tech Stack
+- **Backend:** Core Java
+- **Security:** SAML 2.0, Enterprise Authentication
+- **Tools:** Postman, Jenkins
+- **Methodology:** Agile / SDLC
+
+### 📈 Impact
+- Improved authentication security and reduced login-related incidents.
+- Streamlined user access across enterprise applications.
+
+---
+
+## 🎮 Project 2: TCS iON Gamelab  
+**Role:** Java Full Stack Developer  
+**Duration:** Oct 2023 – Feb 2025  
+**Domain:** EdTech | Browser-Based Learning Platforms
+
+### 💻 Key Contributions
+- Developed **responsive front-end components** using HTML5, CSS3, JavaScript, jQuery, and Core Java.
+- Implemented **multilingual and localized features** to support diverse user demographics.
+- Worked in **Agile/Scrum sprints** to enhance UI, scalability, and performance.
+- Participated in the **full SDLC**: development, testing, deployment, and documentation.
+- Optimized **cross-browser compatibility** and dynamic UI behavior.
+- Collaborated closely with **QA and design teams** to ensure high code quality.
+
+### 🧰 Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript, jQuery
+- **Backend:** Core Java
+- **Practices:** Agile, UI Optimization
+
+### 📈 Impact
+- Enhanced user experience and accessibility.
+- Improved platform scalability and performance.
+
+---
+
+## 🎓 Project 3: TCS iON Digital Campus  
+**Role:** Java Full Stack Developer  
+**Duration:** Jul 2021 – Sep 2023  
+**Domain:** Digital Campus | Education Management Systems
+
+### 🧩 Key Contributions
+- Developed front-end screens using **JavaScript and jQuery**.
+- Created **SQL-based custom reports** to support data-driven decision-making.
+- Led the complete **Arabization process**, enabling multilingual accessibility across the product.
+
+### 🧰 Tech Stack
+- **Frontend:** JavaScript, jQuery
+- **Database:** SQL
+- **Localization:** Multilingual / Arabization
+
+### 📈 Impact
+- Enabled regional adoption through localization.
+- Improved reporting accuracy for institutional stakeholders.
+
 ## 🎓 Education
 
 **🎓 Jadavpur University**  
