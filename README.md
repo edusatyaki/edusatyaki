@@ -1,19 +1,73 @@
 # About Me:
 ## Satyaki Das  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyaki-das-25593714a/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dassatyaki1908@gmail.com)
 
-I am an Educator, Java Full Stack Developer, and System Engineer at Tata Consultancy Services (TCS) with 4+ years of hands-on industry experience in building scalable, reliable, and user-centric applications. My core expertise lies in Java-based full stack development, where I work across backend and frontend technologies to deliver robust, end-to-end solutions aligned with real-world business requirements. <br><br>
-I have strong proficiency in Core Java, JSP, Servlets, XML, MySQL, and modern frontend technologies including HTML5, CSS3, Bootstrap, JavaScript, and jQuery. I enjoy designing clean system architectures, writing maintainable code, and continuously improving application performance, scalability, and usability. <br><br>
-Alongside my professional role, I am deeply invested in teaching, mentoring, and continuous learning. I have trained and mentored 1,000+ students, many of whom are currently working in leading MNCs across software development, data, and cloud domains. I hold a Master of Technology (M.Tech) in Computer Technology from Jadavpur University), along with an MCA and BCA in Computer Science. I am GATE qualified and achieved a CodeVita Global Rank of 848, reflecting strong problem-solving and algorithmic fundamentals. <br><br>
-I hold certifications in Python and Data Innovation, enabling me to work effectively across cloud-enabled and data-driven environments. I particularly enjoy creating structured learning paths, developing hands-on tutorials, and contributing to research-oriented or exploratory technical projects. <br><br>
-I am also a published author, with multiple books available on Amazon:<br>
-NumPy: For The Beginners — an introductory guide to numerical computing using Python<br>
-📘 https://www.amazon.in/Numpy-Beginners-Satyaki-Das-ebook/dp/B084BRQRM9/<br>
-Data Science in Python: Learn with Pandas — a practical, hands-on guide to data analysis with Pandas<br>
-📘 https://www.amazon.in/Data-Science-Python-Learn-Pandas-ebook/dp/B08M652L4R/<br>
-Driven by curiosity, discipline, and a passion for impactful education and technology, I aim to build scalable, efficient software solutions while continuously evolving as a developer, educator, and technologist.<br>
+I am an **Educator, Java Full Stack Developer, and System Engineer at Tata Consultancy Services (TCS)** with **4+ years of hands-on industry experience** in building scalable, reliable, and user-centric applications. My core expertise lies in **Java-based full stack development**, where I work across backend and frontend technologies to deliver robust, end-to-end solutions aligned with real-world business requirements.
+
+I have strong proficiency in:
+
+- Core Java  
+- JSP, Servlets, XML  
+- MySQL  
+- HTML5, CSS3, Bootstrap  
+- JavaScript, jQuery  
+
+I enjoy designing clean system architectures, writing maintainable code, and continuously improving application performance, scalability, and usability.
 
 ---
 
+## 🎓 Teaching & Mentorship
+
+Alongside my professional role, I am deeply invested in **teaching, mentoring, and continuous learning**. I have trained and mentored **1,000+ students**, many of whom are currently working in leading MNCs across **software development, data, and cloud domains**.
+
+
+## 🔬 M.Tech Research (NLP & Multimodal AI)
+
+During my M.Tech, I worked on an advanced research project focused on designing and implementing an **intelligent Life-Logging system using NLP, Machine Learning, and multimodal data pipelines**.
+
+### 🔹 Key Highlights:
+
+- Built an **end-to-end automated pipeline** for capturing and analyzing:
+  - Video
+  - Audio
+  - Speech
+  - Environmental data
+  - Fitness & activity data
+  - Weather data
+
+- Integrated:
+  - **Computer Vision:** MediaPipe, TensorFlow Lite
+  - **Speech-to-Text Processing**
+  - **BERT-based NLP classification pipeline**
+
+- Converted **unstructured multimodal data into structured semantic life-logs and analytical reports**
+
+- Designed and implemented:
+  - Data ingestion pipeline
+  - Processing & ML pipelines
+  - NLP classification pipeline
+  - Data storage & report generation system
+
+These enable me to work effectively across **cloud-enabled and data-driven environments**.
+---
+
+## ✍️ Author & Publications
+
+I am also a **published author**, with multiple books available on Amazon:
+
+### 📘 NumPy: For The Beginners  
+An introductory guide to numerical computing using Python  
+🔗 https://www.amazon.in/Numpy-Beginners-Satyaki-Das-ebook/dp/B084BRQRM9/
+
+### 📘 Data Science in Python: Learn with Pandas  
+A practical, hands-on guide to data analysis with Pandas  
+🔗 https://www.amazon.in/Data-Science-Python-Learn-Pandas-ebook/dp/B08M652L4R/
+
+---
+
+## 🎯 Philosophy
+
+> Driven by curiosity, discipline, and a passion for impactful education and technology, I aim to build **scalable, efficient software solutions** while continuously evolving as a **developer, educator, and technologist**.
+---
 
 ### Tech Stack:<br> 
 
