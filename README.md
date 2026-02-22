@@ -50,20 +50,6 @@ During my M.Tech, I worked on an advanced research project focused on designing 
 These enable me to work effectively across **cloud-enabled and data-driven environments**.
 ---
 
-## ✍️ Author & Publications
-
-I am also a **published author**, with multiple books available on Amazon:
-
-### 📘 NumPy: For The Beginners  
-An introductory guide to numerical computing using Python  
-🔗 https://www.amazon.in/Numpy-Beginners-Satyaki-Das-ebook/dp/B084BRQRM9/
-
-### 📘 Data Science in Python: Learn with Pandas  
-A practical, hands-on guide to data analysis with Pandas  
-🔗 https://www.amazon.in/Data-Science-Python-Learn-Pandas-ebook/dp/B08M652L4R/
-
----
-
 ## 🎯 Philosophy
 
 > Driven by curiosity, discipline, and a passion for impactful education and technology, I aim to build **scalable, efficient software solutions** while continuously evolving as a **developer, educator, and technologist**.
