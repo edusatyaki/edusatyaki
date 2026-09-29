@@ -1,173 +1,108 @@
-# About Me:
-## Satyaki Das  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyaki-das-25593714a/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dassatyaki1908@gmail.com)
+<h1 align="center">Satyaki Das</h1>
 
-I am an **Educator, Java Full Stack Developer, and System Engineer at Tata Consultancy Services (TCS)** with **4+ years of hands-on industry experience** in building scalable, reliable, and user-centric applications. My core expertise lies in **Java-based full stack development**, where I work across backend and frontend technologies to deliver robust, end-to-end solutions aligned with real-world business requirements.
+<p align="center">
+  <b>Product engineer · Data analyst · Educator</b><br/>
+  I build education and career products, and teach the data skills behind them.
+</p>
 
-I have strong proficiency in:
-
-- Core Java  
-- JSP, Servlets, XML  
-- MySQL  
-- HTML5, CSS3, Bootstrap  
-- JavaScript, jQuery  
-
-I enjoy designing clean system architectures, writing maintainable code, and continuously improving application performance, scalability, and usability.
-
----
-
-## 🎓 Teaching & Mentorship
-
-Alongside my professional role, I am deeply invested in **teaching, mentoring, and continuous learning**. I have trained and mentored **1,000+ students**, many of whom are currently working in leading MNCs across **software development, data, and cloud domains**.
-
-
-## 🔬 M.Tech Research (NLP & Multimodal AI)
-
-During my M.Tech, I worked on an advanced research project focused on designing and implementing an **intelligent Life-Logging system using NLP, Machine Learning, and multimodal data pipelines**.
-
-### 🔹 Key Highlights:
-
-- Built an **end-to-end automated pipeline** for capturing and analyzing:
-  - Video
-  - Audio
-  - Speech
-  - Environmental data
-  - Fitness & activity data
-  - Weather data
-
-- Integrated:
-  - **Computer Vision:** MediaPipe, TensorFlow Lite
-  - **Speech-to-Text Processing**
-  - **BERT-based NLP classification pipeline**
-
-- Converted **unstructured multimodal data into structured semantic life-logs and analytical reports**
-
-- Designed and implemented:
-  - Data ingestion pipeline
-  - Processing & ML pipelines
-  - NLP classification pipeline
-  - Data storage & report generation system
-
-These enable me to work effectively across **cloud-enabled and data-driven environments**.
----
-
-## 🎯 Philosophy
-
-> Driven by curiosity, discipline, and a passion for impactful education and technology, I aim to build **scalable, efficient software solutions** while continuously evolving as a **developer, educator, and technologist**.
----
-
-### Tech Stack:<br> 
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/satyaki-das-25593714a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dassatyaki1908@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://edusatyaki.github.io/Resume"><img src="https://img.shields.io/badge/Portfolio-1f2328?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.xshare.learnshare"><img src="https://img.shields.io/badge/XShare_on_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="XShare on Google Play"/></a>
+  <img src="https://img.shields.io/badge/Kolkata,_India-57606a?style=flat-square&logo=googlemaps&logoColor=white" alt="Kolkata, India"/>
+</p>
 
 ---
 
-## Experience: 
-## Project 1: TCS Bancs – AXA Mexico  
-**Role:** Java Full Stack Developer  
-**Duration:** Mar 2025 – Present<br>
-**Domain:** Banking | Insurance | Identity & Access Management
+### About
 
-### Key Contributions
-- Designed and implemented **SAML-based Single Sign-On (SSO)** for secure enterprise authentication.
-- Integrated **Identity Provider (IdP)** and **Service Provider (SP)** components.
-- Ensured compliance with **enterprise security standards and protocols**.
-- Collaborated with **system architects and IT security teams** to validate SAML assertions.
-- Supported **post-deployment testing and troubleshooting** across multiple environments.
+- **Founder of [XShare](https://play.google.com/store/apps/details?id=com.xshare.learnshare)**, a career app for students and freshers: jobs, internships and scholarships in one feed, plus round-wise interview questions and a resume builder. Launched May 2026, **500+ downloads, rated 5.0 from 24 reviews**.
+- **Product manager, Interview Prep Portal** at Newton School of Technology: roadmap, question banks, mock tests and placement modules.
+- **4 years as a Java full-stack developer at TCS** (2021–2025) across TCS iON Digital Campus, iON Gamelab and TCS BaNCS.
+- **Assistant Professor at Newton School of Technology**, teaching data analytics with Python, SQL and Power BI.
 
-### Tech Stack
-- **Backend:** Core Java
-- **Security:** SAML 2.0, Enterprise Authentication
-- **Tools:** Postman, Jenkins
-- **Methodology:** Agile / SDLC
+### Experience
 
-### Impact
-- Improved authentication security and reduced login-related incidents.
-- Streamlined user access across enterprise applications.
+| Role | Where | When |
+|---|---|---|
+| Founder & product architect | XShare | 2026 – present |
+| Assistant Professor · Product manager, Interview Prep Portal | Newton School of Technology × Rishihood University | 2025 – present |
+| Java Full Stack Developer: SAML 2.0 SSO (IdP/SP) for AXA Mexico | TCS BaNCS | 2025 |
+| Java Full Stack Developer: browser-based learning platform | TCS iON Gamelab | 2023 – 2025 |
+| Java Full Stack Developer: led the complete Arabization of the product | TCS iON Digital Campus | 2021 – 2023 |
+| Co-founder & growth lead: 150K+ visitors, 25K+ community | Codewindow | 2020 – 2022 |
 
----
+### Featured work
 
-## Project 2: TCS iON Gamelab  
-**Role:** Java Full Stack Developer  
-**Duration:** Oct 2023 – Feb 2025  
-**Domain:** EdTech | Browser-Based Learning Platforms
+| Project | What it is |
+|---|---|
+| [**PostgreSQL from Zero**](https://github.com/edusatyaki/PostgreSQL-From-Zero) | A digital book that teaches SQL from scratch. Every query runs on real PostgreSQL 18. |
+| [**PG Master**](https://github.com/edusatyaki/PGMaster) | Single-page reference to 459 PostgreSQL functions, each with real executed output. |
+| [**SQL Roadmap**](https://github.com/edusatyaki/SQLRoadmap) | 379 LeetCode and HackerRank problems in 14 chapters, with per-student progress tracking. |
+| [**Virtual Office**](https://github.com/edusatyaki/VirtualOffice) | A simulated product company where every employee is an AI agent that plans, builds and ships. |
+| [**NumPyMaster**](https://github.com/edusatyaki/NumPyMaster) | 50 gamified NumPy tasks running Python in the browser via Pyodide, no backend. |
+| [**System Design Hub**](https://github.com/edusatyaki/SystemDesignPro) | Interactive reference to 50 system design case studies. |
+| [**Transaction Café**](https://github.com/edusatyaki/Transaction-Control) | 12 runnable PostgreSQL demos on ACID and isolation levels, with a presenter deck. |
+| [**Competition Ladder**](https://github.com/edusatyaki/Competition-Ladder) | A year-wise map of 31 contests, hackathons and open-source programs for CS undergraduates. |
 
-### Key Contributions
-- Developed **responsive front-end components** using HTML5, CSS3, JavaScript, jQuery, and Core Java.
-- Implemented **multilingual and localized features** to support diverse user demographics.
-- Worked in **Agile/Scrum sprints** to enhance UI, scalability, and performance.
-- Participated in the **full SDLC**: development, testing, deployment, and documentation.
-- Optimized **cross-browser compatibility** and dynamic UI behavior.
-- Collaborated closely with **QA and design teams** to ensure high code quality.
+### Tech stack
 
-### Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript, jQuery
-- **Backend:** Core Java
-- **Practices:** Agile, UI Optimization
+**Data:**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### Impact
-- Enhanced user experience and accessibility.
-- Improved platform scalability and performance.
+**Databases:**<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
----
+**Engineering:**<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## Project 3: TCS iON Digital Campus  
-**Role:** Java Full Stack Developer  
-**Duration:** Jul 2021 – Sep 2023  
-**Domain:** Digital Campus | Education Management Systems
+**Tools:**<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### Key Contributions
-- Developed front-end screens using **JavaScript and jQuery**.
-- Created **SQL-based custom reports** to support data-driven decision-making.
-- Led the complete **Arabization process**, enabling multilingual accessibility across the product.
+### GitHub stats
 
-### Tech Stack
-- **Frontend:** JavaScript, jQuery
-- **Database:** SQL
-- **Localization:** Multilingual / Arabization
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/overview-dark.svg"/>
+    <img src="assets/overview-light.svg" alt="GitHub at a glance" width="49%"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg"/>
+    <img src="assets/languages-light.svg" alt="Languages by repository" width="49%"/>
+  </picture>
+</p>
 
-### Impact
-- Enabled regional adoption through localization.
-- Improved reporting accuracy for institutional stakeholders.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"/>
+    <img src="assets/activity-light.svg" alt="Contribution activity, last 12 months" width="100%"/>
+  </picture>
+</p>
 
-## Education
+<sub>These cards are rebuilt every day by a GitHub Action from the GitHub API.</sub>
 
-**Jadavpur University**  
-**Master of Technology (M.Tech) – Computer Technology / Computer Systems Technology**  
-*Jul 2021 – Dec 2024*  
-*First Class*  
-Specialization: **Natural Language Processing (NLP)**  
-Skills: Research Projects · Artificial Intelligence (AI) · Machine Learning · Algorithms · Programming · Computer Science · Tutorials · Presentations · Skill Development  
+### Achievements
 
----
+- **TCS CodeVita 2020:** world rank 848, which led to the TCS offer
+- **GATE 2021 (CSE):** qualified
+- **Infosys HackWithInfy:** cleared, with an Infosys offer
+- **Google Code Jam** 2020 and 2021: qualification round and Round 1
+- **TechGig Code Gladiators 2021:** semi-finalist
+- **TCS Gems awards:** 2021 and 2022
 
-**Techno India Group, Salt Lake Campus**  
-**Master of Computer Applications (MCA) – Computer Science**  
-*2018 – 2021*  
-*9.49 DGPA | Ranked 3rd in College*  
-Skills: Teaching · Algorithms · Programming · Computer Science · Presentations · Skill Development · Elementor  
+### Education
 
----
+| Degree | Institution | Result |
+|---|---|---|
+| M.Tech, Computer Technology | Jadavpur University, 2021–2024 | 7.43 CGPA |
+| MCA | Techno Main Salt Lake (MAKAUT), 2018–2021 | 9.49 DGPA · ranked 3rd |
+| BCA | Techno Main Salt Lake (MAKAUT), 2015–2018 | 9.11 DGPA · ranked 3rd |
 
-**Techno India Group, Salt Lake Campus**  
-**Bachelor of Computer Applications (BCA) – Computer Programming**  
-*2015 – 2018*  
-*9.11 DGPA | Ranked 3rd in College*  
-Skills: Computer Science · Computer Engineering · Elementor  
+<details>
+<summary><b>M.Tech research: multimodal life-logging with NLP</b></summary>
+<br/>
 
----
+An automated pipeline that captures video, audio, speech, fitness, activity and weather data and turns it into structured, searchable life-logs and reports. It uses MediaPipe and TensorFlow Lite for vision, speech-to-text, and a BERT-based classifier, with its own ingestion, processing, storage and reporting stages.
 
-**Rahara Ramakrishna Mission**  
-**Higher Secondary Education**  
-*2003 – 2015*
-
----
-
-
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SatyakiDas&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SatyakiDas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyakiDas&theme=dark&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=SatyakiDas&icon=0&color=0)](https://visitcount.itsvg.in)
+</details>
