@@ -18,16 +18,13 @@
 ### About
 
 - **Founder of [XShare](https://play.google.com/store/apps/details?id=com.xshare.learnshare)**, a career app for students and freshers: jobs, internships and scholarships in one feed, plus round-wise interview questions and a resume builder. Launched May 2026, **500+ downloads, rated 5.0 from 24 reviews**.
-- **Product manager, Interview Prep Portal** at Newton School of Technology: roadmap, question banks, mock tests and placement modules.
 - **4 years as a Java full-stack developer at TCS** (2021–2025) across TCS iON Digital Campus, iON Gamelab and TCS BaNCS.
-- **Assistant Professor at Newton School of Technology**, teaching data analytics with Python, SQL and Power BI.
 
 ### Experience
 
 | Role | Where | When |
 |---|---|---|
 | Founder & product architect | XShare | 2026 – present |
-| Assistant Professor · Product manager, Interview Prep Portal | Newton School of Technology × Rishihood University | 2025 – present |
 | Java Full Stack Developer: SAML 2.0 SSO (IdP/SP) for AXA Mexico | TCS BaNCS | 2025 |
 | Java Full Stack Developer: browser-based learning platform | TCS iON Gamelab | 2023 – 2025 |
 | Java Full Stack Developer: led the complete Arabization of the product | TCS iON Digital Campus | 2021 – 2023 |
