@@ -107,6 +107,31 @@
   </tr>
 </table>
 
+### Certificates
+
+Awards and competition results.
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="assets/certificates/cert-tcs-continuous-feedback-2022.jpg"><img src="assets/certificates/cert-tcs-continuous-feedback-2022.jpg" alt="Continuous Feedback Star" height="130"/></a><br/>
+      <b>Continuous Feedback Star</b><br/><sub>TCS Gems · December 2022</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="assets/certificates/cert-tcs-fresco-play-2021.jpg"><img src="assets/certificates/cert-tcs-fresco-play-2021.jpg" alt="Fresco Play Miles Award" height="130"/></a><br/>
+      <b>Fresco Play Miles Award</b><br/><sub>TCS Gems · November 2021</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="assets/certificates/cert-code-gladiators-2021.jpg"><img src="assets/certificates/cert-code-gladiators-2021.jpg" alt="Code Gladiators 2021: semi-finalist" height="130"/></a><br/>
+      <b>Code Gladiators 2021: semi-finalist</b><br/><sub>TechGig, presented by Cognizant · June 2021</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="assets/certificates/cert-google-hashcode-2021.jpg"><img src="assets/certificates/cert-google-hashcode-2021.jpg" alt="Google Hash Code 2021" height="130"/></a><br/>
+      <b>Google Hash Code 2021</b><br/><sub>Qualified · global rank 4,869</sub>
+    </td>
+  </tr>
+</table>
+
 ### Education
 
 | Degree | Institution | Result |
