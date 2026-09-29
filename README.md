@@ -83,28 +83,28 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">🏆 <b>TCS CodeVita 2020: world rank 848</b><br/><sub>One of the world's largest coding contests, run by TCS.</sub></td>
-    <td width="50%" valign="top">🎓 <b>GATE 2021 qualified</b><br/><sub>Computer Science &amp; Engineering, one of India's toughest national exams.</sub></td>
+    <td width="50%" valign="top"><b>TCS CodeVita 2020: world rank 848</b><br/><sub>One of the world's largest coding contests, run by TCS.</sub></td>
+    <td width="50%" valign="top"><b>GATE 2021 qualified</b><br/><sub>Computer Science &amp; Engineering, one of India's toughest national exams.</sub></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">💻 <b>Google Code Jam, 2020 and 2021</b><br/><sub>Cleared the qualification round and competed in Round 1 both years.</sub></td>
-    <td width="50%" valign="top">🧩 <b>Google Hash Code 2021</b><br/><sub>Global rank 4,869 in Google's team programming competition.</sub></td>
+    <td width="50%" valign="top"><b>Google Code Jam, 2020 and 2021</b><br/><sub>Cleared the qualification round and competed in Round 1 both years.</sub></td>
+    <td width="50%" valign="top"><b>Google Hash Code 2021</b><br/><sub>Global rank 4,869 in Google's team programming competition.</sub></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">✅ <b>Infosys HackWithInfy: qualified</b><br/><sub>Cleared Infosys' national coding championship, which led to an Infosys offer.</sub></td>
-    <td width="50%" valign="top">⚔️ <b>TechGig Code Gladiators 2021</b><br/><sub>Semi-finalist in the individual track of India's largest coding contest.</sub></td>
+    <td width="50%" valign="top"><b>Infosys HackWithInfy: qualified</b><br/><sub>Cleared Infosys' national coding championship, which led to an Infosys offer.</sub></td>
+    <td width="50%" valign="top"><b>TechGig Code Gladiators 2021</b><br/><sub>Semi-finalist in the individual track of India's largest coding contest.</sub></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">🥉 <b>Ranked 3rd in MCA and BCA</b><br/><sub>MCA (9.49) and BCA (9.11) at Techno Main Salt Lake.</sub></td>
-    <td width="50%" valign="top">🧑‍🏫 <b>2,500+ students guided</b><br/><sub>Mentored college students for placements and career readiness.</sub></td>
+    <td width="50%" valign="top"><b>Ranked 3rd in MCA and BCA</b><br/><sub>MCA (9.49) and BCA (9.11) at Techno Main Salt Lake.</sub></td>
+    <td width="50%" valign="top"><b>2,500+ students guided</b><br/><sub>Mentored college students for placements and career readiness.</sub></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">💎 <b>TCS Gems: Fresco Play Miles Award</b><br/><sub>November 2021, for sustained completion of internal learning courses.</sub></td>
-    <td width="50%" valign="top">💎 <b>TCS Gems: Continuous Feedback Star</b><br/><sub>December 2022, recognised as a role model for continuous feedback.</sub></td>
+    <td width="50%" valign="top"><b>TCS Gems: Fresco Play Miles Award</b><br/><sub>November 2021, for sustained completion of internal learning courses.</sub></td>
+    <td width="50%" valign="top"><b>TCS Gems: Continuous Feedback Star</b><br/><sub>December 2022, recognised as a role model for continuous feedback.</sub></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">📜 <b>Certified: Microsoft and IIT Kharagpur</b><br/><sub>HTML5 Application Development (Microsoft Associate, 2018) and DBMS from IIT Kharagpur.</sub></td>
-    <td width="50%" valign="top">☁️ <b>AWS Academy Educator</b><br/><sub>Accredited to teach the AWS Academy curriculum.</sub></td>
+    <td width="50%" valign="top"><b>Certified: Microsoft and IIT Kharagpur</b><br/><sub>HTML5 Application Development (Microsoft Associate, 2018) and DBMS from IIT Kharagpur.</sub></td>
+    <td width="50%" valign="top"><b>AWS Academy Educator</b><br/><sub>Accredited to teach the AWS Academy curriculum.</sub></td>
   </tr>
 </table>
 
