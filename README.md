@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/satyaki-das-25593714a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dassatyaki1908@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://edusatyaki.github.io/Resume"><img src="https://img.shields.io/badge/Portfolio-1f2328?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="https://play.google.com/store/apps/details?id=com.xshare.learnshare"><img src="https://img.shields.io/badge/XShare_on_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="XShare on Google Play"/></a>
   <img src="https://img.shields.io/badge/Kolkata,_India-57606a?style=flat-square&logo=googlemaps&logoColor=white" alt="Kolkata, India"/>
 </p>
