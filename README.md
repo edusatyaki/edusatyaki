@@ -29,7 +29,6 @@
 | System Engineer: 15 custom reports for AXA Mexico and AXA Gulf, with production monitoring | TCS BaNCS | 2025 |
 | Product Engineer: 6 real-time dashboards and the SQL pipeline feeding them | TCS iON Ed-Games Hub | 2023 – 2025 |
 | Java Full Stack Developer: 27 custom SQL reports; led the complete Arabization of the product | TCS iON Digital Campus | 2021 – 2023 |
-| Co-founder & growth lead: 150K+ visitors, 25K+ community | Codewindow | 2020 – 2022 |
 
 ### Tech stack
 
