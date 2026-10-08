@@ -31,19 +31,6 @@
 | Java Full Stack Developer: 27 custom SQL reports; led the complete Arabization of the product | TCS iON Digital Campus | 2021 – 2023 |
 | Co-founder & growth lead: 150K+ visitors, 25K+ community | Codewindow | 2020 – 2022 |
 
-### Featured work
-
-| Project | What it is |
-|---|---|
-| [**PostgreSQL from Zero**](https://github.com/edusatyaki/PostgreSQL-From-Zero) | A digital book that teaches SQL from scratch. Every query runs on real PostgreSQL 18. |
-| [**PG Master**](https://github.com/edusatyaki/PGMaster) | Single-page reference to 459 PostgreSQL functions, each with real executed output. |
-| [**SQL Roadmap**](https://github.com/edusatyaki/SQLRoadmap) | 379 LeetCode and HackerRank problems in 14 chapters, with per-student progress tracking. |
-| [**Virtual Office**](https://github.com/edusatyaki/VirtualOffice) | A simulated product company where every employee is an AI agent that plans, builds and ships. |
-| [**NumPyMaster**](https://github.com/edusatyaki/NumPyMaster) | 50 gamified NumPy tasks running Python in the browser via Pyodide, no backend. |
-| [**System Design Hub**](https://github.com/edusatyaki/SystemDesignPro) | Interactive reference to 50 system design case studies. |
-| [**Transaction Café**](https://github.com/edusatyaki/Transaction-Control) | 12 runnable PostgreSQL demos on ACID and isolation levels, with a presenter deck. |
-| [**Competition Ladder**](https://github.com/edusatyaki/Competition-Ladder) | A year-wise map of 31 contests, hackathons and open-source programs for CS undergraduates. |
-
 ### Tech stack
 
 **Data:**<br/>
