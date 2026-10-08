@@ -1,32 +1,34 @@
 <h1 align="center">Satyaki Das</h1>
 
 <p align="center">
-  <b>Product engineer · Data analyst · Educator</b><br/>
-  I build education and career products, and teach the data skills behind them.
+  <b>Data Analyst · Business Intelligence · Python, SQL, Power BI</b><br/>
+  I turn operational data into the numbers people decide on, and build the tools that keep it flowing.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/satyaki-das-25593714a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dassatyaki1908@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://play.google.com/store/apps/details?id=com.xshare.learnshare"><img src="https://img.shields.io/badge/XShare_on_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="XShare on Google Play"/></a>
-  <img src="https://img.shields.io/badge/Kolkata,_India-57606a?style=flat-square&logo=googlemaps&logoColor=white" alt="Kolkata, India"/>
+  <a href="https://www.kaggle.com/satyakidas07"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <img src="https://img.shields.io/badge/Bangalore,_India-57606a?style=flat-square&logo=googlemaps&logoColor=white" alt="Bangalore, India"/>
 </p>
 
 ---
 
 ### About
 
-- **Founder of [XShare](https://play.google.com/store/apps/details?id=com.xshare.learnshare)**, a career app for students and freshers: jobs, internships and scholarships in one feed, plus round-wise interview questions and a resume builder. Launched May 2026, **500+ downloads, rated 5.0 from 24 reviews**.
-- **4 years as a Java full-stack developer at TCS** (2021–2025) across TCS iON Digital Campus, iON Gamelab and TCS BaNCS.
+- **4 years at TCS** (2021–2025) building custom SQL reporting and real-time dashboards across three platforms: iON Digital Campus, iON Ed-Games Hub and TCS BaNCS. **40+ custom reports and 6 real-time dashboards**, serving institutional clients and two AXA insurance engagements in Mexico and the Gulf.
+- **[XShare](https://play.google.com/store/apps/details?id=com.xshare.learnshare)**, a career app for students and freshers, built on an 8-source ETL pipeline loading 100,000+ records. **500+ downloads, rated 5.0 from 24 reviews**.
+- **Publishing on [Kaggle](https://www.kaggle.com/satyakidas07)**: 7 public datasets and 5 analysis notebooks, 80+ community upvotes.
 
 ### Experience
 
 | Role | Where | When |
 |---|---|---|
-| Founder & product architect | XShare | 2026 – present |
-| Java Full Stack Developer: SAML 2.0 SSO (IdP/SP) for AXA Mexico | TCS BaNCS | 2025 |
-| Java Full Stack Developer: browser-based learning platform | TCS iON Gamelab | 2023 – 2025 |
-| Java Full Stack Developer: led the complete Arabization of the product | TCS iON Digital Campus | 2021 – 2023 |
+| Architecture & ETL pipeline: 8 sources, 6 scrapers, 100,000+ records | XShare | 2026 – present |
+| System Engineer: 15 custom reports for AXA Mexico and AXA Gulf, with production monitoring | TCS BaNCS | 2025 |
+| Product Engineer: 6 real-time dashboards and the SQL pipeline feeding them | TCS iON Ed-Games Hub | 2023 – 2025 |
+| Java Full Stack Developer: 27 custom SQL reports; led the complete Arabization of the product | TCS iON Digital Campus | 2021 – 2023 |
 | Co-founder & growth lead: 150K+ visitors, 25K+ community | Codewindow | 2020 – 2022 |
 
 ### Featured work
@@ -45,7 +47,10 @@
 ### Tech stack
 
 **Data:**<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white) ![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Data engineering:**<br/>
+![ETL](https://img.shields.io/badge/ETL_Pipelines-4B5563?style=flat-square) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![APScheduler](https://img.shields.io/badge/APScheduler-306998?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SCD Type 2](https://img.shields.io/badge/SCD_Type_2-4B5563?style=flat-square) ![Medallion](https://img.shields.io/badge/Medallion_Architecture-4B5563?style=flat-square)
 
 **Databases:**<br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
