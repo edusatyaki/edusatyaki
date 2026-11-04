@@ -18,7 +18,7 @@
 
 ### About
 
-- **5 years in data, reporting and BI.** Product Analyst at Newton School of Technology since 2025, after 4 years at TCS (2021–2025) across iON Digital Campus, iON Ed-Games Hub and TCS BaNCS.
+- **5 years in data, reporting and BI**, including 4 years at TCS (2021–2025) across iON Digital Campus, iON Ed-Games Hub and TCS BaNCS.
 - **40+ custom SQL reports and 6 live dashboards** for institutional clients and two AXA insurance engagements in Mexico and the Gulf.
 - **Analytics engineering:** dbt models on Snowflake and BigQuery in a medallion (bronze/silver/gold) architecture, with tests, documentation and consistent KPI definitions.
 - **[XShare](https://play.google.com/store/apps/details?id=com.xshare.learnshare)**, a career app for students and freshers, built on an 8-source ETL pipeline loading 100,000+ records. **500+ downloads, rated 5.0 from 24 reviews**.
@@ -28,7 +28,6 @@
 
 | Role | Where | When |
 |---|---|---|
-| Product Analyst: reporting dataset and 12 reports on usage, completion and assessments; completion rate up 35% | Newton School of Technology | 2025 – present |
 | Architecture & ETL pipeline: 6 scrapers, 100,000+ records into MongoDB and PostgreSQL | XShare | 2026 – present |
 | System Engineer (Data): 15 custom reports for AXA Mexico and AXA Gulf; dbt models on Snowflake and BigQuery (medallion); Apache Superset dashboards; production monitoring | TCS BaNCS | 2025 |
 | Product Engineer: SQL transformation pipeline behind 6 live dashboards | TCS iON Ed-Games Hub | 2023 – 2025 |
